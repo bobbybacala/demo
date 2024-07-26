@@ -2,6 +2,7 @@ print('Pune')
 print('Maharashtra')
 print('India')
 
-print('USA')
+
+print('Mumbai')
+print('India')
 print('New York')
-print('Long Island')
